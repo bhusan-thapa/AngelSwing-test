@@ -1,0 +1,2 @@
+
+The answer is 0 due to asynchronous nature of the language. When the if-else flow enters the event loop it takes non xero time to evaluate. By the time event loop is done, the console log statement is already executed and hence it prints out the initial value of x which is 0.

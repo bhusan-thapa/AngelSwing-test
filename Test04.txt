@@ -1,0 +1,3 @@
+Javascript is a high-level scripting language which is built into browsers that that allows us to implement various functionalities in our web applications. Javascript does have several libraries (eg. jQuery) and frameworks (eg Angular) that enables us to use those functionalities efficiently and easily.
+
+Web Api can be defined as the constructs that are built into the browsers. Usually, such apis are built on top of Javascript language. Web Api allows us to manupulate DOM, fetch data from the backend server, store local data in frontend browser storage, handle audio/video elements.

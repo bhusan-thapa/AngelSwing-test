@@ -1,0 +1,2 @@
+In Javascript the instanceof operator test the prototype property of a constructor.
+While 'this' keyword in Javascript signifies the object that owns the code, it does not have any value in constructor object.

@@ -1,0 +1,4 @@
+
+i) A developer while writing a frontend application might spread the application codes in serveral files and folders. Further, a developer might use various third party packages while developing the application. In order to convert all these files and packages into a single Javascript file Bundler is used. Bundler is a tool that takes several Javascript files, libraries and packages and bundle them together to give a single Javascript file. Webpack is a common example of a bundler.
+
+ii) Transpiler is a source-to-source compiler that transpiles source codes written in one programming language into equivalent codes in another language. Babel is an example of a Transpiler. It allows us to write codes using ES15 syntax or Typescript; which eventually gets transpiled into JS.

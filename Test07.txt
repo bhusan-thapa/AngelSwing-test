@@ -1,0 +1,1 @@
+In Javascript subtype or subtyping is the term used to describe type relationships. It allows us to use functions or operations written for subtypes to be used on supertypes. Subtyping can be viewed as a method of implementing Polymorphism. Unlike inheritance, subtyping can be applied on interfaces.

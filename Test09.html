@@ -1,0 +1,17 @@
+<html>
+  <head></head>
+  <body>
+    <header class="topbar">
+      <h1 class="topbar__title"></h1>
+      <ul class="topbar-menu">
+        <li class="topbar-menu__item"></li>
+        <li class="topbar-menu__item"></li>
+      </ul>
+    </header>
+    <script>
+      var textnode = document.createTextNode('Home');
+      const listItems = document.querySelectorAll('.topbar-menu li');
+      listItems[0].appendChild(textnode);
+    </script>
+  </body>
+</html>
